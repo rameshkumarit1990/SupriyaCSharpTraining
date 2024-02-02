@@ -11,7 +11,10 @@ namespace SupriyaCSharpTraining
         public static void Main()
         {
             Console.WriteLine("Hello Main Program");
-            Program.RunProgram();
+            
+            Introduction.IntroductionProgram();
+            ReadFromConsole.Readconsole();
+            WriteReadConsole.WriteRead();
         }
     }
 }
