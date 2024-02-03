@@ -15,6 +15,8 @@ namespace SupriyaCSharpTraining
             Introduction.IntroductionProgram();
             ReadFromConsole.Readconsole();
             WriteReadConsole.WriteRead();
+            Booleandatatype.Booleantype();
+            Booleandatatype.car();
         }
     }
 }
