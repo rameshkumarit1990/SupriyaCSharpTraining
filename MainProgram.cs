@@ -17,6 +17,9 @@ namespace SupriyaCSharpTraining
             WriteReadConsole.WriteRead();
             Booleandatatype.Booleantype();
             Booleandatatype.car();
+            Intdatatype.Inttype();
+            Intdatatype.Inttype2();
+            Intdatatype.Inttype3();
         }
     }
 }
