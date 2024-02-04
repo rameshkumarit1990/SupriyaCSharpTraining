@@ -22,6 +22,9 @@ namespace SupriyaCSharpTraining
             Intdatatype.Inttype3();
             floatdatatype.Floattype();
             floatdatatype.FloatDoubletype();
+            escapesequence.stringmethod();
+            escapesequence.Escapemethod();
+            escapesequence.Verbatim();
         }
     }
 }
