@@ -28,6 +28,7 @@ namespace SupriyaCSharpTraining
 
             Console.WriteLine(concatenation);
         }
+
         //Verbatim literal to a string
         public static void Verbatim()
         {

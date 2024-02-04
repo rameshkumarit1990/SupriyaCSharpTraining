@@ -25,6 +25,8 @@ namespace SupriyaCSharpTraining
             escapesequence.stringmethod();
             escapesequence.Escapemethod();
             escapesequence.Verbatim();
+            Operators.Arthemeticoperator();
+            Operators.Relationaloperator();
         }
     }
 }
