@@ -20,6 +20,8 @@ namespace SupriyaCSharpTraining
             Intdatatype.Inttype();
             Intdatatype.Inttype2();
             Intdatatype.Inttype3();
+            floatdatatype.Floattype();
+            floatdatatype.FloatDoubletype();
         }
     }
 }
