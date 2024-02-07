@@ -27,6 +27,12 @@ namespace SupriyaCSharpTraining
             escapesequence.Verbatim();
             Operators.Arthemeticoperator();
             Operators.Relationaloperator();
+            Operators.Logicaloperator();
+            Nullablevalues.Nullabletypes();
+            Nullablevalues.Nullabletypes2();
+            Nullablevalues.Nullabletypes3();
+            Nullablevalues.ConvertNullabletype4();
+
         }
     }
 }
