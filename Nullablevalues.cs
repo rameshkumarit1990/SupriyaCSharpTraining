@@ -69,6 +69,7 @@ namespace SupriyaCSharpTraining
         public static void ConvertNullabletype4()
         {
             int? TicketOnSale = 0;
+            //int? TicketOnSale=100;
             int AvaliableTickets;
             
             if(TicketOnSale ==null)

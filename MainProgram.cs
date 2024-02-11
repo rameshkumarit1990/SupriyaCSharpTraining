@@ -32,6 +32,10 @@ namespace SupriyaCSharpTraining
             Nullablevalues.Nullabletypes2();
             Nullablevalues.Nullabletypes3();
             Nullablevalues.ConvertNullabletype4();
+            ImplicitExplicit.Implicit();
+            ImplicitExplicit.Explicit();
+            ImplicitExplicit.Stringconvert();
+            Arrays.Array();
 
         }
     }
