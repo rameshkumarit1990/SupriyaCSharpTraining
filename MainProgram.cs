@@ -11,7 +11,32 @@ namespace SupriyaCSharpTraining
         public static void Main()
         {
             Console.WriteLine("Hello Main Program");
-            Program.RunProgram();
+            
+            Introduction.IntroductionProgram();
+            ReadFromConsole.Readconsole();
+            WriteReadConsole.WriteRead();
+            Booleandatatype.Booleantype();
+            Booleandatatype.car();
+            Intdatatype.Inttype();
+            Intdatatype.Inttype2();
+            Intdatatype.Inttype3();
+            floatdatatype.Floattype();
+            floatdatatype.FloatDoubletype();
+            escapesequence.stringmethod();
+            escapesequence.Escapemethod();
+            escapesequence.Verbatim();
+            Operators.Arthemeticoperator();
+            Operators.Relationaloperator();
+            Operators.Logicaloperator();
+            Nullablevalues.Nullabletypes();
+            Nullablevalues.Nullabletypes2();
+            Nullablevalues.Nullabletypes3();
+            Nullablevalues.ConvertNullabletype4();
+            ImplicitExplicit.Implicit();
+            ImplicitExplicit.Explicit();
+            ImplicitExplicit.Stringconvert();
+            Arrays.Array();
+
         }
     }
 }
