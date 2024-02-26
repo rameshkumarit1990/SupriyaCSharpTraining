@@ -14,15 +14,21 @@ namespace SupriyaCSharpTraining
             bool Notadatatype = false;
             Console.WriteLine(Isdatatype);
             Console.WriteLine(Notadatatype);
-        }  
-        public static void car() 
-        {
-        bool CarIS4Wheeler =true;
-        bool CarIS2Wheeler =false;
-             Console.WriteLine(CarIS4Wheeler);
-            Console.WriteLine(CarIS2Wheeler);
-           
         }
-        
+        public static void car()
+        {
+            bool CarIS4Wheeler = true;
+            bool CarIS2Wheeler = false;
+            Console.WriteLine(CarIS4Wheeler);
+            Console.WriteLine(CarIS2Wheeler);
+
+        }
+
+        public static void RunProgram()
+        {
+            Booleantype();
+            car();
+        }
+
     }
 }

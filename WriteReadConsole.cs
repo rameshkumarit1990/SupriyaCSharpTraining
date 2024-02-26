@@ -22,5 +22,9 @@ namespace SupriyaCSharpTraining
             Console.WriteLine("Hello {0} {1}",FirstName,LastName);
 
         }
+        public static void RunProgram()
+        {
+            WriteRead();
+        }
     }
 }

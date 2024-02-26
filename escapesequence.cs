@@ -40,6 +40,12 @@ namespace SupriyaCSharpTraining
 
             Console.WriteLine(concatenation);
         }
+        public static void RunProgram()
+        {
+            stringmethod();
+            Escapemethod();
+            Verbatim();
+        }
 
     }
 }

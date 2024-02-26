@@ -34,7 +34,13 @@ namespace SupriyaCSharpTraining
 
 
         }
+        public static void RunProgram()
+        {
+            Implicit();
+            Explicit();
+            Stringconvert();
 
+        }
 
 
     }

@@ -24,6 +24,11 @@ namespace SupriyaCSharpTraining
             Console.WriteLine(x * y);
         }
 
+        public static void  RunProgram()
+        {
+            Floattype();
+            FloatDoubletype();
+        }
 
     }
 }

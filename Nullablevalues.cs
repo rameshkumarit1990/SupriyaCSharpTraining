@@ -83,5 +83,14 @@ namespace SupriyaCSharpTraining
             }
             Console.WriteLine("AvaliableTickets ={0}",AvaliableTickets);
         }
+        public static void RunProgram()
+        {
+            Nullabletypes();
+            Nullabletypes2();
+            Nullabletypes3();
+            ConvertNullabletype4();
+
+
+        }
     }
 }

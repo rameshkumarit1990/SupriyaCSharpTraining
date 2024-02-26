@@ -8,6 +8,12 @@ namespace SupriyaCSharpTraining
 {
     public class Intdatatype
     {
+        public static void RunProgram()
+        {
+            Inttype();
+            Inttype2();
+            Inttype3();
+        }
         public static void Inttype()
         {
             //intdata type int add values between two variables

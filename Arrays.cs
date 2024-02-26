@@ -21,5 +21,9 @@ namespace SupriyaCSharpTraining
             Console.WriteLine(EvenNumbers[4]);
 
         }
+        public static void RunProgram()
+        {
+            Array();
+        }
     }
 }

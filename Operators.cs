@@ -44,5 +44,14 @@ namespace SupriyaCSharpTraining
             Console.WriteLine(!(m < n));
         }
 
+        public static void RunProgram() 
+        {
+            Arthemeticoperator();
+            Relationaloperator();
+            Logicaloperator();
+
+
+        }
+
     }
 }
